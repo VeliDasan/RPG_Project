@@ -1,1 +1,1 @@
-Bir kurs ile geliştirilen RPG projesi
+Kurs eşliğinde geliştirilen proje
